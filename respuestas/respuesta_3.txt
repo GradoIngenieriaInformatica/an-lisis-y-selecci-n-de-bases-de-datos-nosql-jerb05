@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES TEMPORALES | Optimizado para consultas cronológicas y agregaciones por ventanas; eficiente en inserciones secuenciales y consultas por rangos temporales.
