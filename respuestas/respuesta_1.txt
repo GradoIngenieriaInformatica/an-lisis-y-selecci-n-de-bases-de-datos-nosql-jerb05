@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Relaciones altamente conectadas entre usuarios y productos; consultas de vecinos, recorridos y patrones de compra eficientes para recomendaciones basadas en relaciones.
